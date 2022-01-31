@@ -1,4 +1,10 @@
-## Hi there, i'm Victor Augusto 👋
+## Hi there, I'm Victor Augusto 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorltd&show_icons=true&theme=dark)
-
+<div align="center"> 
+<a href="https://github.com/victorltd">
+  <img height =180 align="center" src="https://github-readme-stats.vercel.app/api?username=victorltd&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height= 180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorltd&layout=compact&theme=dark" />
+</a>
+</div>
